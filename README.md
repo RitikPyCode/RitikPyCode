@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**RitikPyCode/RitikPyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##Hi there 👋
+🔭 I’m currently working on web development
+🌱 I’m currently learning react native
+👯 I’m looking to collaborate on projects
+✔ On-Chair at ACM-CIET
+💻 Web Developer at The Suited Monks. 👨‍💻 Ex web dev Hack Space Security Services
+💬 Ask me about Graphics,Front-end, and UI/UX
+📫 How to reach me:https://www.linkedin.com/in/samridhi-bhatia-9238151a0/
+🕺 Fun Fact: I have writing as my hobby
+🏡 Visit my portfolio at https://samridhi18.github.io/Portfolio/
+Contact Me
