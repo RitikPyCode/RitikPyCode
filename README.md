@@ -15,5 +15,4 @@
 
 
 # Contact 
-https://www.quora.com/profile/Ritik-Kumar-Tiwari-1
-🍳
+## 🍳https://www.linkedin.com/in/ritik-kumar-tiwari-6869b7184/
