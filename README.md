@@ -1,14 +1,4 @@
 ### Hi This is Ritik 👋
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://RitikPyCode.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
 
 ## This is All About Me:
 
@@ -22,6 +12,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 🍳 visit my portfolio at :https://github.com/RitikPyCode/RitikPyCode/new/main?readme=1 ...
 - 🍳 visit my Quora Profile at :https://www.quora.com/profile/Ritik-Kumar-Tiwari-1 ...
 
+Skills: PYTHON / DATA SCIENCE / MACHINE LEARNING / HTML / CSS
 
 # Contact 
 ### 🍳https://www.linkedin.com/in/ritik-kumar-tiwari-6869b7184/
