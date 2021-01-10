@@ -1,6 +1,7 @@
 ### Hi This is Ritik 👋
 
 ## This is All About Me:
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 - 🔭 I’m currently working on Python Developer ...
 - 💻 I’m currently learning Data Science and machine learning ...
