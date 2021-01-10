@@ -16,3 +16,17 @@ Skills: PYTHON / DATA SCIENCE / MACHINE LEARNING / HTML / CSS
 
 # Contact 
 ### 🍳https://www.linkedin.com/in/ritik-kumar-tiwari-6869b7184/
+//Add single bar
+BarChartModel barChartModel = new BarChartModel();
+barChartModel.setBarValue(50);
+barChartModel.setBarColor(Color.parseColor("#9C27B0"));
+barChartModel.setBarTag(null); //You can set your own tag to bar model
+barChartModel.setBarText("50");
+
+barChart.addBar(barChartModel);
+
+//Add mutliple bar at once as list;
+List<BarChartModel> barChartModelList = new ArrayList<>();
+
+//populate bar array list and add to barchart as a list. 
+barChart.addBar(barChartModelList);
