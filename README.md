@@ -1,8 +1,7 @@
 ### Hi This is Ritik 👋
 
 ## This is All About Me:
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
-
+ 
 - 🔭 I’m currently working on Python Developer ...
 - 💻 I’m currently learning Data Science and machine learning ...
 - 👯 I’m looking to collaborate on project ...
