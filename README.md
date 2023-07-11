@@ -1,6 +1,5 @@
-# Hi This is Ritik 👋
+# Hi Learners, This is Ritik Tiwari 👋
 
-## It's All About Me:😊
 🚀As a skilled technology professional with 2+ Years of experience,I am passionate about DevOps tools and cloud technologies. I am dedicated to leveraging my expertise to help organizations achieve their goals. 
  
 😎As a continuous learner, I am always seeking new challenges and opportunities to further develop my skills and knowledge. I am dedicated to leveraging my expertise to drive innovation, increase efficiency, and help organizations achieve success.🎯
