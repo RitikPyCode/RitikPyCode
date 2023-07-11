@@ -17,4 +17,7 @@ If you are interested in learning more about my skills and experience, please fe
 
 😍I love automation, traveling 🛣️, learning, and exploring new technologies💻!
 
+## Let's connect on LinkedIN: 
+https://www.linkedin.com/in/ritikktiwari/
+
 ## Thanks for visiting my profile
