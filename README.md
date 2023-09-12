@@ -1,22 +1,30 @@
-# Hi Learners, This is Ritik Tiwari 👋
+<h1 align="center">Hi 👋, I'm Ritik Kumar Tiwari</h1>
+<h3 align="center">Associate Professional Software Engineer at DXC Technology⚡ | AWS Cloud Database Administrator🌧 | PostgreSQL database 💻| Devops tools & Cloud Enthusiast📘| 6.5k+ LinkedIn Family🔔</h3>
 
-🚀As a skilled technology professional with 2+ Years of experience,I am passionate about DevOps tools and cloud technologies. I am dedicated to leveraging my expertise to help organizations achieve their goals. 
- 
-😎As a continuous learner, I am always seeking new challenges and opportunities to further develop my skills and knowledge. I am dedicated to leveraging my expertise to drive innovation, increase efficiency, and help organizations achieve success.🎯
+- 🔭 I’m currently working in **DXC Technology**
 
-If you are interested in learning more about my skills and experience, please feel free to reach out to me. I am always open to new connections and opportunities.
+- 🌱 I’m currently learning **Devops Tools/ Cloud/ And new more tech.**
 
+- 👯 I’m Passionate about **Cloud/Devops/Postgresql DBA**
 
-💦CERTIFICATIONS:
-●	AZ-900: Microsoft Azure Fundamentals
-●	AZ-104: Microsoft Azure Administrator 
-●	DP-900: Microsoft Azure Data Fundamentals
-●	Oracle Cloud Infrastructure 2022 Foundations Associate
-●	Oracle Cloud Infrastructure 2021 Foundations Associate.
+- 🤝 I’m looking for **collaboration**
 
-😍I love automation, traveling 🛣️, learning, and exploring new technologies💻!
+- 👨‍💻 All of my projects are available at [https://linktr.ee/ritik_tiwari](https://linktr.ee/ritik_tiwari)
 
-## Let's connect on LinkedIN: 
-https://www.linkedin.com/in/ritikktiwari/
+- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles](https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles)
 
-## Thanks for visiting my profile
+- 💬 Ask me about **Welcome to my profile! I offer a wide array of services and possess expertise in various areas. My specialties include optimizing LinkedIn profiles, creating LinkedIn profiles, building resumes, providing technical support in database management, offering customer support, and offering guidance to students. I am dedicated to enhancing your experience and ensuring your needs are met effectively. Your satisfaction is my priority, and I'm here to support you every step of the way.**
+
+- 📫 How to reach me **https://www.linkedin.com/in/ritikktiwari/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/ritikktiwari/](https://www.linkedin.com/in/ritikktiwari/)
+
+- ⚡ Hobbies **😍I love automation, traveling 🛣️, learning, and exploring new technologies💻!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritikktiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritikktiwari/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
