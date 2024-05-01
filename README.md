@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar Tiwari</h1>
-<h3 align="center">Associate Professional Software Engineer at DXC Technology⚡ | AWS Cloud Database Administrator🌧 | PostgreSQL database 💻| Devops tools & Cloud Enthusiast📘| 6.5k+ LinkedIn Family🔔</h3>
+<h3 align="center">AWS Cloud Database Administrator🌧 | PostgreSQL/Oracle/Mysql Database 💻| Devops tools & Cloud Enthusiast📘| 7.3k+ LinkedIn Family🔔</h3>
 
 - 🔭 I’m currently working in **DXC Technology**
 
