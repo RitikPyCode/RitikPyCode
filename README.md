@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles](https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles)
 
-- 💬 Ask me about **Hello 👋 Thanks for visiting my profile!
+- 💬 Ask me about **Hello 👋 Thanks for visiting my profile!**
 
 I'm a Senior Cloud Engineer with 5+  years of experience in Cloud Operations, SRE, Observability, and Incident Management, supporting mission-critical environments across Banking, Financial Services, and Oil & Energy domains.
 
-I specialize in building reliable and scalable platforms using AWS, Azure, Kubernetes, Dynatrace, LogScale, BigPanda, and CloudWatch, with a strong focus on system reliability, performance optimization, and operational excellence.
+**I specialize in building reliable and scalable platforms using AWS, Azure, Kubernetes, Dynatrace, LogScale, BigPanda, and CloudWatch, with a strong focus on system reliability, performance optimization, and operational excellence.**
 
 🔹 Cloud & Platform Engineering (AWS, Azure)
 
@@ -29,11 +29,11 @@ I specialize in building reliable and scalable platforms using AWS, Azure, Kuber
 
 Passionate about building resilient systems, solving complex challenges, and sharing knowledge with the community.
 
-Senior Cloud Engineer | SRE | Observability | Platform Engineering | Cloud Operations | DevOps ❣️**
+**Senior Cloud Engineer | SRE | Observability | Platform Engineering | Cloud Operations | DevOps ❣️**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ritikktiwari/](https://www.linkedin.com/in/ritikktiwari/)
 
-- ⚡ Hobbies **😍I love automation, traveling 🛣️, learning, and exploring new technologies💻!**
+- ⚡ Hobbies **😍I love traveling, learning, and exploring new technologies💻!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
