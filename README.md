@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar Tiwari</h1>
-<h3 align="center">AWS Cloud Database Administrator🌧 | PostgreSQL/Oracle/Mysql Database 💻| Devops tools & Cloud Enthusiast📘| 7.3k+ LinkedIn Family🔔</h3>
+<h3 align="center">Senior Cloud Engineer - Cloud Infra @LTIMindtree | Top 1% @Topmate | 10k+ LinkedIn Family 🙎| Delivering Business Value via Observability & Cloud Solutions | Multi Cloud Certified </h3>
 
-- 🔭 I’m currently working in **DXC Technology**
+- 🔭 I’m currently working in **LTIMindtree**
 
-- 🌱 I’m currently learning **Devops Tools/ Cloud/ And new more tech.**
-
-- 👯 I’m Passionate about **Cloud/Devops/Postgresql DBA**
+- 👯 I’m Passionate about **Cloud/Devops/Obsevability Platform**
 
 - 🤝 I’m looking for **collaboration**
 
@@ -13,7 +11,25 @@
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles](https://auth.geeksforgeeks.org/user/ritikkumartiwari/articles)
 
-- 💬 Ask me about **Welcome to my profile! I offer a wide array of services and possess expertise in various areas. My specialties include optimizing LinkedIn profiles, creating LinkedIn profiles, building resumes, providing technical support in database management, offering customer support, and offering guidance to students. I am dedicated to enhancing your experience and ensuring your needs are met effectively. Your satisfaction is my priority, and I'm here to support you every step of the way.**
+- 💬 Ask me about **Hello 👋 Thanks for visiting my profile!
+
+I'm a Senior Cloud Engineer with 5+  years of experience in Cloud Operations, SRE, Observability, and Incident Management, supporting mission-critical environments across Banking, Financial Services, and Oil & Energy domains.
+
+I specialize in building reliable and scalable platforms using AWS, Azure, Kubernetes, Dynatrace, LogScale, BigPanda, and CloudWatch, with a strong focus on system reliability, performance optimization, and operational excellence.
+
+🔹 Cloud & Platform Engineering (AWS, Azure)
+
+🔹 SRE & Observability (Dynatrace, LogScale, BigPanda)
+
+🔹 Kubernetes & Container Monitoring
+
+🔹 Major Incident Management & ITIL Practices
+
+🔹 Automation, RCA & Continuous Improvement
+
+Passionate about building resilient systems, solving complex challenges, and sharing knowledge with the community.
+
+Senior Cloud Engineer | SRE | Observability | Platform Engineering | Cloud Operations | DevOps ❣️**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ritikktiwari/](https://www.linkedin.com/in/ritikktiwari/)
 
