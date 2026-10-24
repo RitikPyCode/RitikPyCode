@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar Tiwari</h1>
-<h3 align="center">Senior Cloud Engineer - Cloud Infra @LTIMindtree | Top 1% @Topmate | 10k+ LinkedIn Family 🙎| Delivering Business Value via Observability & Cloud Solutions | Multi Cloud Certified </h3>
 
 - 🔭 I’m currently working in **LTIMindtree**
 
