@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritik Kumar Tiwari</h1>
 
-- 🔭 I’m currently working in **LTIMindtree**
-
 - 👯 I’m Passionate about **Cloud/Devops/Obsevability Platform**
 
 - 🤝 I’m looking for **collaboration**
